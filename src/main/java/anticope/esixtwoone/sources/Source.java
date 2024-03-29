@@ -41,9 +41,6 @@ public abstract class Source {
 
     public static Source getSource(SourceType type) {
         return switch (type) {
-            case e621 -> new ESixTwoOne();
-            case gelbooru -> new GelBooru("https://gelbooru.com/", 700);
-            case rule34 -> new GelBooru("https://api.rule34.xxx/", 700);
             case e621 -> new ESixTwoOne("https://e621.net");
             case e926 -> new ESixTwoOne("https://e926.net");
             case gelbooru -> new GelBooru("https://gelbooru.com", 700);
