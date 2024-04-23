@@ -16,7 +16,7 @@ Thanks RewardedIvan for nekoslife source
 
 <hr />
 
-<a href="https://github.com/AntiCope/meteor-e621-integration/releases/tag/latest-1.18">
+<a href="https://github.com/veronoicc/meteor-e621-integration/releases/tag/latest">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Csaj7qL5xw4PUQVUL8ig8adN8wUtHIyyPNO3jHq4ZPQrInpoNfK3-5bpCc6y4Qk0tw&usqp=CAU" />
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhF3jjLg6ZcMHViwfPKRj_BfMFkDCP59YrcpzZBM5XbGuZ2Q7RyDJfoMoC5S_ckBRX1g&usqp=CAU" />
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_GlNQ2QzowFoex_SuVlqpKPyYsXwN1oldZg&usqp=CAU" />
